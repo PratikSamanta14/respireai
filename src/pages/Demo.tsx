@@ -135,7 +135,7 @@ const Demo = () => {
                 </div>
                 <h3 className="text-xl font-semibold mb-2">Beta Release</h3>
                 <p className="text-blue-100 mb-2">Limited beta testing with healthcare partners</p>
-                <div className="text-lg font-bold">Q1 2024</div>
+                <div className="text-lg font-bold">Q1 2025</div>
               </div>
               
               <div className="text-center">
@@ -144,7 +144,7 @@ const Demo = () => {
                 </div>
                 <h3 className="text-xl font-semibold mb-2">Public Demo</h3>
                 <p className="text-blue-100 mb-2">Interactive demo available to the public</p>
-                <div className="text-lg font-bold">Q2 2024</div>
+                <div className="text-lg font-bold">Q2 2025</div>
               </div>
               
               <div className="text-center">
@@ -153,7 +153,7 @@ const Demo = () => {
                 </div>
                 <h3 className="text-xl font-semibold mb-2">Full Launch</h3>
                 <p className="text-blue-100 mb-2">Complete platform available worldwide</p>
-                <div className="text-lg font-bold">Q3 2024</div>
+                <div className="text-lg font-bold">Q3 2025</div>
               </div>
             </div>
           </div>
