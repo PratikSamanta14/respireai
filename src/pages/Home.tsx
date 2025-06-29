@@ -18,7 +18,7 @@ const Home = () => {
             
             <h1 className="text-5xl md:text-7xl font-bold text-gray-900 mb-6">
               <span className="bg-gradient-to-r from-blue-600 to-teal-500 bg-clip-text text-transparent">
-                BreatheAI
+                RespireAI
               </span>
             </h1>
             
