@@ -21,7 +21,7 @@ const Demo = () => {
           <div className="bg-orange-100 border border-orange-300 rounded-lg p-6 max-w-2xl mx-auto mb-8">
             <p className="text-xl text-orange-800 font-semibold mb-2">🚧 Demo Coming Soon!</p>
             <p className="text-orange-700">
-              We're putting the finishing touches on our interactive demo. Check back soon to experience BreatheAI in action!
+              We're putting the finishing touches on our interactive demo. Check back soon to experience RespireAI in action!
             </p>
           </div>
         </div>
@@ -66,25 +66,25 @@ const Demo = () => {
             
             <div className="space-y-6">
               <div className="flex items-center">
-                <div className="flex-shrink-0 w-8 h-8 bg-green-500 rounded-full flex items-center justify-center">
-                  <span className="text-white text-sm font-bold">✓</span>
+                <div className="flex-shrink-0 w-8 h-8 bg-orange-500 rounded-full flex items-center justify-center">
+                  <span className="text-white text-sm font-bold">○</span>
                 </div>
                 <div className="ml-4 flex-grow">
                   <h3 className="text-lg font-semibold text-gray-900">Core AI Model Development</h3>
                   <p className="text-gray-600">Machine learning models trained and validated</p>
                 </div>
-                <div className="text-green-600 font-semibold">Completed</div>
+                <div className="text-orange-600 font-semibold">Upcoming</div>
               </div>
               
               <div className="flex items-center">
-                <div className="flex-shrink-0 w-8 h-8 bg-green-500 rounded-full flex items-center justify-center">
-                  <span className="text-white text-sm font-bold">✓</span>
+                <div className="flex-shrink-0 w-8 h-8 bg-orange-500 rounded-full flex items-center justify-center">
+                  <span className="text-white text-sm font-bold">○</span>
                 </div>
                 <div className="ml-4 flex-grow">
                   <h3 className="text-lg font-semibold text-gray-900">Backend API Development</h3>
                   <p className="text-gray-600">RESTful API endpoints and audio processing pipeline</p>
                 </div>
-                <div className="text-green-600 font-semibold">Completed</div>
+                <div className="text-orange-600 font-semibold">Upcoming</div>
               </div>
               
               <div className="flex items-center">

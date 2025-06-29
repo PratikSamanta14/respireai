@@ -70,7 +70,7 @@ const HowItWorks = () => {
         {/* Header */}
         <div className="text-center mb-16">
           <h1 className="text-5xl font-bold text-gray-900 mb-6">
-            How <span className="bg-gradient-to-r from-blue-600 to-teal-500 bg-clip-text text-transparent">BreatheAI</span> Works
+            How <span className="bg-gradient-to-r from-blue-600 to-teal-500 bg-clip-text text-transparent">RespireAI</span> Works
           </h1>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
             Our simple 4-step process transforms respiratory sound analysis into actionable health insights
@@ -132,7 +132,7 @@ const HowItWorks = () => {
         <section className="mt-20">
           <div className="bg-white rounded-2xl shadow-lg p-8">
             <h2 className="text-3xl font-bold text-gray-900 text-center mb-8">
-              The Science Behind BreatheAI
+              The Science Behind RespireAI
             </h2>
             
             <div className="grid md:grid-cols-3 gap-8">

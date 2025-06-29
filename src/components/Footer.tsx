@@ -13,7 +13,7 @@ const Footer = () => {
             <div className="bg-gradient-to-r from-blue-600 to-teal-500 p-2 rounded-lg">
               <Mic className="h-6 w-6 text-white" />
             </div>
-            <span className="text-2xl font-bold">BreatheAI</span>
+            <span className="text-2xl font-bold">RespireAI</span>
           </div>
           
           <div className="text-center md:text-right">
@@ -21,7 +21,7 @@ const Footer = () => {
               AI-Powered Cough & Breath Sound Analyzer
             </p>
             <p className="text-gray-400 text-sm">
-              © {currentYear} BreatheAI. Advancing respiratory healthcare through AI.
+              © {currentYear} RespireAI. Advancing respiratory healthcare through AI.
             </p>
           </div>
         </div>

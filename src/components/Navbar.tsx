@@ -30,7 +30,7 @@ const Navbar = () => {
             <div className="bg-gradient-to-r from-blue-600 to-teal-500 p-2 rounded-lg">
               <Mic className="h-6 w-6 text-white" />
             </div>
-            <span className="text-2xl font-bold text-gray-800">BreatheAI</span>
+            <span className="text-2xl font-bold text-gray-800">RespireAI</span>
           </Link>
 
           {/* Desktop Navigation */}
